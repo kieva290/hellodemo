@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello java");
 		System.out.println("Hello java2");
 		System.out.println("Hello java3");
+		System.out.println("Hot fix changes");
 	}
 
 }
